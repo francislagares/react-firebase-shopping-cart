@@ -1,68 +1,82 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# React Shopping Cart
 
-## Available Scripts
+> This project is an ecommerce shop built with React, Redux, Firebase and GraphQL.
 
-In the project directory, you can run:
+![Example screenshot](./src/assets/readme/readme-preview-directory.png)
 
-### `yarn start`
+![Example screenshot](./src/assets/readme/readme-preview-collection.png)
 
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
+![node-current](https://img.shields.io/badge/built%20with-React-0BD8FF.svg?style=for-the-badge&labelColor=080804)![node-current](https://img.shields.io/badge/Redux%20-6E50B5.svg?style=for-the-badge&labelColor=080804) &nbsp;![node-current](https://img.shields.io/badge/Database-Firebase-FCCA3F.svg?style=for-the-badge&labelColor=080804) &nbsp;![node-current](https://img.shields.io/badge/styled%20with-css3-5dbcd2.svg?style=for-the-badge&labelColor=080804)![node-current](https://img.shields.io/badge/scss-cb649b.svg?style=for-the-badge&labelColor=080804) &nbsp; &nbsp;![node-current](https://img.shields.io/badge/markup-html5-eb6434.svg?style=for-the-badge&labelColor=080804) &nbsp;
 
-### `yarn test`
+## Table of contents
 
-Launches the test runner in the interactive watch mode.<br />
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+- [React Shopping Cart](#react-shopping-cart)
+  - [Table of contents](#table-of-contents)
+  - [General info](#general-info)
+  - [Technologies](#technologies)
+  - [Installation and Usage](#installation-and-usage)
+    - [Dev Mode](#dev-mode)
+  - [Status](#status)
+  - [Contact](#contact)
 
-### `yarn build`
+## General info
 
-Builds the app for production to the `build` folder.<br />
-It correctly bundles React in production mode and optimizes the build for the best performance.
+This project is an ecommerce shop and allows users to add items to their cart. It implements checkout with Stripe platform. 
 
-The build is minified and the filenames include the hashes.<br />
-Your app is ready to be deployed!
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## Technologies
 
-### `yarn eject`
+- React / Redux / Redux-saga
+- Firebase
+- GraphQL
+- Stripe
+- Sass
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+## Installation and Usage
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+Prerequisites: 
 
-Instead, it will copy all the configuration files and the transitive dependencies (Webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+- [Node.js](https://nodejs.org/en/)
+- [Create React App](https://create-react-app.dev/)
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+To run this project:
 
-## Learn More
+- Clone this repo to your local machine using
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+```shell
+$ git clone https://github.com/francislagares/react-firebase-shopping-cart
+```
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+- Switch into directory
 
-### Code Splitting
+```shell
+$ cd react-firebase-shopping-cart
+```
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
+- Install dependencies
 
-### Analyzing the Bundle Size
+```shell
+$ yarn install
+```
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
+### Dev Mode
 
-### Making a Progressive Web App
+This project is bootstrapped with [Create React App](https://facebook.github.io/create-react-app/docs/getting-started).
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
 
-### Advanced Configuration
+- Run server
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
+```shell
+$ yarn start
+```
 
-### Deployment
+- Browser will open automatically at http://localhost:3000
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
+## Status
 
-### `yarn build` fails to minify
+Currently: _in development..._
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+## Contact
+
+Created by [@francislagares](https://www.linkedin.com/in/francislagares/) - feel free to contact me!
