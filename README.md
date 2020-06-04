@@ -7,7 +7,7 @@
 ![Example screenshot](./src/assets/readme/readme-preview-collection.png)
 
 
-![node-current](https://img.shields.io/badge/built%20with-React-0BD8FF.svg?style=for-the-badge&labelColor=080804)![node-current](https://img.shields.io/badge/Redux%20-6E50B5.svg?style=for-the-badge&labelColor=080804) &nbsp;![node-current](https://img.shields.io/badge/Database-Firebase-FCCA3F.svg?style=for-the-badge&labelColor=080804) &nbsp;![node-current](https://img.shields.io/badge/styled%20with-css3-5dbcd2.svg?style=for-the-badge&labelColor=080804)![node-current](https://img.shields.io/badge/scss-cb649b.svg?style=for-the-badge&labelColor=080804) &nbsp; &nbsp;![node-current](https://img.shields.io/badge/markup-html5-eb6434.svg?style=for-the-badge&labelColor=080804) &nbsp;
+![node-current](https://img.shields.io/badge/built%20with-React-0BD8FF.svg?style=for-the-badge&labelColor=080804)![node-current](https://img.shields.io/badge/Redux%20-6E50B5.svg?style=for-the-badge&labelColor=080804) &nbsp;![node-current](https://img.shields.io/badge/Database-Firebase-FCCA3F.svg?style=for-the-badge&labelColor=080804) &nbsp;![node-current](https://img.shields.io/badge/styled%20with-css3-5dbcd2.svg?style=for-the-badge&labelColor=080804)![node-current](https://img.shields.io/badge/scss-cb649b.svg?style=for-the-badge&labelColor=080804) &nbsp;![node-current](https://img.shields.io/badge/markup-html5-eb6434.svg?style=for-the-badge&labelColor=080804) &nbsp;
 
 ## Table of contents
 
@@ -17,6 +17,7 @@
   - [Technologies](#technologies)
   - [Installation and Usage](#installation-and-usage)
     - [Dev Mode](#dev-mode)
+    - [Live Demo](#live-demo)
   - [Status](#status)
   - [Contact](#contact)
 
@@ -72,6 +73,11 @@ $ yarn start
 ```
 
 - Browser will open automatically at http://localhost:3000
+
+### Live Demo
+
+You can see the application running
+[here.](https://crwm-shop.herokuapp.com/)
 
 ## Status
 
