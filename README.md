@@ -77,7 +77,7 @@ $ yarn start
 ### Live Demo
 
 You can see the application running
-[here.](https://crwm-shop.herokuapp.com/)
+[here.](https://crwn-live.herokuapp.com/)
 
 ## Status
 
